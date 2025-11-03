@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+ <a href="https://www.linkedin.com/in/hmza-ch-479047325" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/your-instagram-handle" target="_blank">
